@@ -1,3 +1,7 @@
+.bg-panda{
+    background-color: #fceae8;
+}
+
 .panda-primary-btn {
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     color: #ff458f;
@@ -7,3 +11,6 @@
 
 }
 
+#subscribe {
+    background-color: #fceae8;
+}
